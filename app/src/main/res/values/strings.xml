@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TourGuide App</string>
+
+    <string name="restaurants">Food</string>
+    <string name="hotels">Nature</string>
+    <string name="schools">General</string>
+    <string name="malls">Places</string>
+
+    <string name="food_place1">KFC Uganda</string>
+    <string name="food_addr1">Acacia Mall, Kampala, Uganda</string>
+    <string name="about_kfc">KFC Corporation, based in Louisville, Kentucky, is one of the few brands in America that can boast a rich, decades-long
+        history of success and innovation. It all started with one cook who created a soon-to-be world-famous recipe more than 70 years ago, a list of
+        secret herbs and spices scratched out on the back of the door to his kitchen. That cook was Colonel Harland Sanders, of course, and now KFC is
+        the world’s most popular chicken restaurant chain, specializing in that same Original Recipe® along with Extra Crispy™ chicken, home-style sides
+        and buttermilk biscuits. There are over 21,000 KFC outlets in more than 130 countries and territories around the world. And you know what? There’s
+        still a cook in a kitchen in every last one of them, freshly preparing delicious, complete family meals at affordable prices.</string>
+    <string name="contact">0775987412</string>
+
+    <string name="food_place2">Cafe Java</string>
+    <string name="food_addr">Oasis Mall, Kampala, Uganda</string>
+    <string name="about_cafejava">
+
+    Each location features a unique ambience with tasteful décor, specially designed for your comfort. To make you feel more at home, we’ve carefully
+    selected a unique theme for each location.
+
+    We have over 300 carefully selected, mouthwatering menu items. Whatever your taste, it’s well catered for. We value you. That’s why you’ll always
+    e served with excellence by each member of our highly skilled team members.
+
+    Eager to serve you, our experienced wait staff greet you at the door and lead you to the table of your choice in the well thought out seating
+    arrangement. The rich aroma of freshly ground coffee is the handiwork of our skilled baristas, adept in latte art. This ensures you get a freshly
+    prepared cup of coffee as the beans are roasted on site. To ensure you always enjoy a special dining experience, we constantly improve our
+    ignature world-class innovations..</string>
+
+
+    <string name="place_name1">Kasubi Tomb</string>
+    <string name="place_addr1">Kasubi, Kampala, Uganda</string>
+    <string name="about_kasubi">This incredible site is nestled on the hillsides outside Kampala City, in Kasubi. This Site was the burial ground for Buganda
+        Kings, and four Kings (Kabaka in Luganda) and other members of the royal family were buried in this historical site. The intricate Architectural
+        designs depict the ancient designs used in the 13th Century. This site declared a UNESCO World Heritage Site in 2001 is considered a religious and
+        cultural site, but was mysteriously gutted by fire in 2010, but is currently undergoing construction supported by the Japanese Government to restore
+        it back.</string>
+
+    <string name="place_name2">Source of the Nile</string>
+    <string name="place_addr2">Jinja, Uganda</string>
+    <string name="about_nile">River Nile is well known to be the longest river in the world. Its source starts right from Jinja Uganda, some people may be
+        wondering how the name Nile come about. It’s a famous Greek word simply meaning valley. The river starts from the Northeastern part of Africa. It
+        flows from the surrounding areas close to the equator to the outrageous Safari desert and up to the eastern Mediterranean Sea.</string>
+
+    <string name="nature_name1">Muruchion Falls</string>
+    <string name="nature_addr1">Northern Uganda</string>
+    <string name="about_murchionfall">Whether you visit by a boat cruise on the Victoria Nile or a safari tour, you don’t want to miss Murchison Falls in northwest
+        Uganda. Here, you can witness enormous waters bursting through a narrow gorge before crashing in powerful, roaring cascades.</string>
+
+    <string name="nature_name12">Ssese Islands</string>
+    <string name="nature_addr2">Ssese IsIands, Uganda</string>
+    <string name="about_ssese">A major tourist attraction in Uganda, the Ssese Islands are a group of about 84 islands dotted along the northwestern shores
+        of Lake Victoria. Each island differs in size, shape and exotic flora and fauna.</string>
+</resources>
